@@ -1,0 +1,6 @@
+{
+  "name": "Next Level Gaming Cafe",
+  "description": "Ultra-modern premium esports lounge and gaming cafe with high-performance RTX rigs, PS5 consoles, racing simulators, VIP LAN suites, and online bookings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
